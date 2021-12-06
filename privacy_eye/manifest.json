@@ -1,6 +1,6 @@
 {
   "name": "tattletale",
-  "version": "1.0.5",
+  "version": "1.0.4",
   "description": "Reveal the invisible trackers hidden across the web.",
   "permissions": [
     "<all_urls>",
@@ -40,10 +40,10 @@
     }
   },
   "icons": {
-    "16": "images/owl-16.png",
-    "32": "images/owl-32.png",
-    "48": "images/owl-48.png",
-    "128": "images/owl-128.png"
+    "16": "images/eye.png",
+    "32": "images/eye.png",
+    "48": "images/eye.png",
+    "128": "images/eye.png"
   },
   "manifest_version": 2
 }
